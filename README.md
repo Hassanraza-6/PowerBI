@@ -95,7 +95,6 @@ This dashboard demonstrates how visual analytics can simplify energy management.
 - Compare cities across seasons
 - Track KPIs with interactive controls
 
-https://github.com/Hassanraza-6/PowerBI/blob/main/Energy%20Dashboard/Snapshot%20of%20Energy%20Dashboard.png
 
 The solution helps optimize energy consumption and supports sustainability initiatives at the urban planning level.
 
