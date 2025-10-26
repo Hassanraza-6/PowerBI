@@ -6,15 +6,17 @@ An interactive Power BI dashboard to analyze and compare energy consumption patt
 # Energy Dashboard Analysis
 
 
-## 📑 Table of Contents
+## Table of Contents
+- [Project Title](#project-title)
+- [Brief One-Line Summary](#brief-one-line-summary)
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Tools and Technologies](#tools-and-technologies)
 - [Methods](#methods)
 - [Key Insights](#key-insights)
-- [Dashboard / Output](#dashboard--output)
-- [How to Run this Project?](#how-to-run-this-project)
+- [DashboardModelOutput](#dashboardmodeloutput)
+- [How to Run this Project](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
 
 ---
@@ -96,74 +98,6 @@ This dashboard demonstrates how visual analytics can simplify energy management.
 https://github.com/Hassanraza-6/PowerBI/blob/main/Energy%20Dashboard/Snapshot%20of%20Energy%20Dashboard.png
 
 The solution helps optimize energy consumption and supports sustainability initiatives at the urban planning level.
-# 📊 U.S. City-Wise Energy Consumption Dashboard (2023–2024) | Power BI Project
-
-An interactive Power BI dashboard to analyze and compare energy consumption patterns across Chicago, New York, and Atlanta using historical data from January 2023 to December 2024.
-
----
-
-## 📚 Table of Contents
-- [📌 Project Overview](#project-overview)
-- [❓ Problem Statement](#problem-statement)
-- [📦 Dataset](#dataset)
-- [🛠️ Tools and Technologies](#tools-and-technologies)
-- [📈 Methods](#methods)
-- [💡 Key Insights](#key-insights)
-- [📊 Dashboard Overview](#dashboard-overview)
-- [🧰 How to Run This Project Locally](#how-to-run-this-project-locally)
-- [✅ Results & Conclusion](#results--conclusion)
-- [📜 License](#license)
-- [🤝 Contributions](#contributions)
-
----
-
-## 📌 Project Overview
-This project visualizes monthly energy usage across three major U.S. cities. The goal is to enable comparative analysis, identify consumption peaks, and aid better energy planning through historical insights.
-
----
-
-## ❓ Problem Statement
-With rising urban energy demands, it’s essential to understand usage trends and forecast needs. This dashboard empowers stakeholders to:
-- Compare city-wise energy consumption
-- Analyze seasonal peaks
-- Assess yearly usage variations
-
----
-
-## 📦 Dataset
-The project uses two CSV files containing energy consumption data:
-- `April_2023.csv`
-- `April_2024.csv`
-Data ranges from **January 2023 to December 2024** for:
-- Chicago
-- New York
-- Atlanta
-
----
-
-## 🛠️ Tools and Technologies
-- **Power BI Desktop**
-- Microsoft Excel (for preprocessing)
-- CSV files as data sources
-
----
-
-## 📈 Methods
-- Data transformation in Power Query
-- Time-based aggregation (monthly/yearly)
-- City-wise filtering with slicers
-- KPI visualizations
-- Line and bar charts for trend analysis
-
----
-
-## 💡 Key Insights
-- New York consistently shows higher consumption in winter months.
-- Chicago displays more stable patterns with minor summer peaks.
-- Atlanta's consumption spikes in warmer months.
-- Year-on-year usage trends can inform infrastructure investment decisions.
-
----
 
 ## 📊 Dashboard Overview
 The dashboard contains:
@@ -176,34 +110,3 @@ The dashboard contains:
 
 ---
 
-## 🧰 How to Run This Project Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/energy-dashboard.git
-   ```
-
-2. Open `ENERGY DASHBOARD.pbix` in **Power BI Desktop**
-
-3. Ensure the following files are in the root directory:
-   - `April_2023.csv`
-   - `April_2024.csv`
-
-4. Click **Refresh** to load the data.
-
-5. Explore the dashboard with slicers and filters.
-
----
-
-## ✅ Results & Conclusion
-This dashboard serves as a powerful decision-support tool for analyzing energy consumption trends in urban settings. It enhances data-driven planning and improves visibility into energy behavior across regions.
-
----
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributions
-Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to modify or improve.
