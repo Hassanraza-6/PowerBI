@@ -94,7 +94,4 @@ The Power BI dashboard includes:
 ![Dashboard Screenshot Placeholder](https://github.com/Hassanraza-6/PowerBI/blob/main/Energy%20Dashboard/Snapshot%20of%20Energy%20Dashboard.png)
 ---
 
-## ▶ How to Run this Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Hassanraza-6/PowerBI.git
+
