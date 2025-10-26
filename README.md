@@ -5,66 +5,94 @@ An interactive Power BI dashboard to analyze and compare energy consumption patt
 
 # Energy Dashboard Analysis
 
-## Table of Contents
-- [Project Title](#project-title)
-- [Brief One-Line Summary](#brief-one-line-summary)
+
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Tools and Technologies](#tools-and-technologies)
 - [Methods](#methods)
 - [Key Insights](#key-insights)
-- [DashboardModelOutput](#dashboardmodeloutput)
-- [How to Run this Project](#how-to-run-this-project)
+- [Dashboard / Output](#dashboard--output)
+- [How to Run this Project?](#how-to-run-this-project)
 - [Results & Conclusion](#results--conclusion)
 
-## Project Title
-Energy Consumption Dashboard for Chicago, New York, and Atlanta (2023–2024)
+---
 
-## Brief One-Line Summary
-An interactive Power BI dashboard analyzing and visualizing monthly energy consumption trends across three major US cities.
+## 📌 Overview
+This project analyzes monthly energy consumption data from three cities—Chicago, New York, and Atlanta—between January 2023 and December 2024. It aims to provide real-time and comparative insights into energy patterns, seasonal variation, peak loads, and efficiency opportunities.
 
-## Overview
-This project visualizes energy usage data collected from Chicago, New York, and Atlanta between January 2023 and December 2024. Using Power BI, it uncovers trends, peak usage patterns, and comparative insights between the cities to support data-driven decisions.
+---
 
-## Problem Statement
-Utility providers and city energy departments often deal with large volumes of usage data without actionable insights. This project aims to bridge that gap by visualizing energy consumption patterns clearly and interactively.
+## ❗ Problem Statement
+Energy consumption is one of the most critical metrics for operational performance and cost control in urban infrastructures. However, energy trends and anomalies can be hard to interpret without visual context. This project solves that gap using interactive dashboards for better monitoring and decision-making.
 
-## Dataset
-The datasets used are monthly CSV files titled `April_2023.csv`, `April_2024.csv`, and others from the same series (January 2023 to December 2024). Each contains location-wise energy usage, timestamps, and other metadata.
+---
 
-## Tools and Technologies
-- Power BI (Dashboard Development)
-- Microsoft Excel (Data Cleaning)
-- CSV Files (Data Source Format)
-- DAX (Data Analysis Expressions for KPIs and Measures)
+## 📂 Dataset
+- Format: `.csv`
+- Period Covered: January 2023 – December 2024
+- Data Points:
+  - Location (Chicago, New York, Atlanta)
+  - Monthly Energy Consumption (kWh)
+  - Peak Demand
+  - Unit Cost
+  - Total Cost
+  - Date
 
-## Methods
-- Data extraction from multiple CSVs
-- Data transformation and cleaning in Power BI Query Editor
-- Visual creation of KPIs, time-series trends, bar/line charts, and filters
-- Slicers added for dynamic filtering by location and date
+---
 
-## Key Insights
-- New York consistently showed higher average monthly consumption than Chicago and Atlanta.
-- Seasonal consumption patterns observed: Peaks in summer and winter months.
-- Significant reduction in usage in Atlanta during Q2 of 2024.
-- Certain months had data irregularities needing attention (e.g., missing values).
+## 🛠 Tools and Technologies
+- Power BI Desktop
+- Microsoft Excel
+- DAX (Data Analysis Expressions)
+- CSV for data import
 
-## DashboardModelOutput
-The Power BI `.pbix` file includes:
-- **Monthly Trend Lines** for each location
-- **Location-wise Comparison** bar charts
-- **KPI Cards** (e.g., Total Consumption, Monthly Change)
-- **Dynamic Filters** for Location and Time
-- **Data Model** integrating multi-year datasets
+---
 
-## How to Run this Project
-1. Install Power BI Desktop.
-2. Open the file `ENERGY DASHBOARD.pbix`.
-3. Make sure all CSV files (2023–2024) are in the same directory or reassign the source paths in Power BI.
-4. Refresh data to load the most recent updates.
-5. Use the slicers and visuals to explore energy trends.
+## 📈 Methods
+- Data Cleaning using Power Query
+- Time-series analysis and filtering (Monthly / Yearly)
+- Comparative bar and line charts by location
+- DAX formulas to calculate:
+  - Monthly energy consumption
+  - Cost savings
+  - Peak load averages
 
-## Results & Conclusion
-The dashboard provides stakeholders with actionable insights into energy usage trends across three major cities. It empowers urban energy management, supports demand forecasting, and promotes sustainable energy planning.
+---
+
+## 🔍 Key Insights
+- Chicago exhibits the highest seasonal variation.
+- New York maintains relatively steady energy consumption throughout the year.
+- Atlanta shows higher peak demand in summer months.
+- Unit cost fluctuations contribute significantly to total energy expenditure.
+
+---
+
+## 📊 Dashboard / Output
+- KPI Tiles: Energy Consumption, Cost, and Peak Load
+- Slicers: Date Range, City
+- Line Chart: Energy Consumption over Time
+- Bar Chart: Comparative Monthly Cost by Location
+- Heat Map: Peak Demand Distribution
+
+---
+
+## ▶ How to Run this Project?
+1. Open `ENERGY DASHBOARD.pbix` in Power BI Desktop.
+2. Load CSV files (January 2023 to December 2024) if not already embedded.
+3. Refresh the data model.
+4. Use the slicers and visual filters to explore city-wise and time-wise insights.
+
+---
+
+## ✅ Results & Conclusion
+This dashboard demonstrates how visual analytics can simplify energy management. Stakeholders can now:
+- Identify periods of high energy usage
+- Make cost-saving decisions
+- Compare cities across seasons
+- Track KPIs with interactive controls
+
+https://github.com/Hassanraza-6/PowerBI/blob/main/Energy%20Dashboard/Snapshot%20of%20Energy%20Dashboard.png
+
+The solution helps optimize energy consumption and supports sustainability initiatives at the urban planning level.
