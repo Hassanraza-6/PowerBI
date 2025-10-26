@@ -1,0 +1,12 @@
+## Table of Contents
+- [Project Title](#project-title)
+- [Brief One-Line Summary](#brief-one-line-summary)
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Dataset](#dataset)
+- [Tools and Technologies](#tools-and-technologies)
+- [Methods](#methods)
+- [Key Insights](#key-insights)
+- [DashboardModelOutput](#dashboardmodeloutput)
+- [How to Run this Project](#how-to-run-this-project)
+- [Results & Conclusion](#results--conclusion)
