@@ -14,9 +14,6 @@ An interactive Power BI dashboard designed to analyze and compare energy consump
 - [Methods](#-methods)
 - [Key Insights](#-key-insights)
 - [Dashboard / Model / Output](#-dashboard--model--output)
-- [How to Run this Project](#-how-to-run-this-project)
-- [Results & Conclusion](#-results--conclusion)
-- [Dashboard Overview](#-dashboard-overview)
 
 ---
 
