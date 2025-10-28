@@ -1,4 +1,3 @@
-
 # 📊 HR Analytics Dashboard | Power BI Project
 
 An interactive Power BI dashboard designed to visualize and analyze key HR metrics such as attrition, promotion, job satisfaction, retrenchment, department-wise headcount, and employee demographics with full-page navigation across Home, Action, and Detail screens.
@@ -21,27 +20,27 @@ An interactive Power BI dashboard designed to visualize and analyze key HR metri
 
 ---
 
-## 🏷 Project Title
+## Project Title
 **HR Analytics Dashboard – Full Insights using Power BI**
 
 ---
 
-## ✍️ Brief One-Line Summary
+## Brief One-Line Summary
 A dynamic HR dashboard that enables data-driven decision-making by visualizing employee metrics like promotion, retrenchment, satisfaction, and performance.
 
 ---
 
-## 📌 Overview
+## Overview
 This Power BI dashboard aggregates and visualizes HR-related KPIs to help HR managers understand workforce dynamics and make strategic decisions. It includes gender ratios, promotion readiness, retrenchment alerts, job satisfaction distribution, service years, and more across departments and job roles.
 
 ---
 
-## ❗ Problem Statement
+## Problem Statement
 Many HR departments struggle with identifying trends in workforce retention, job satisfaction, or promotion-readiness due to scattered data and static reporting tools. This dashboard centralizes and visualizes these KPIs for immediate insights, improved efficiency, and proactive decision-making.
 
 ---
 
-## 🧭 Navigation
+## Navigation
 The dashboard includes three navigable pages for a smooth user experience:
 - **Home Page**: Summary stats for gender, promotions, retrenchment, and KPIs.
 - **Action Page**: Drill-down by department, job role, and job satisfaction level.
@@ -51,7 +50,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Source: Simulated HR dataset
 - Format: Embedded in `.pbix`
 - Key Fields:
@@ -68,7 +67,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## 🛠 Tools and Technologies
+## Tools and Technologies
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query
@@ -76,7 +75,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## 📈 Methods
+## Methods
 - Data cleansing and transformation in Power Query
 - DAX Measures:
   - Promotion count
@@ -89,7 +88,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - **1470 total employees** — 60% male, 40% female
 - **72 employees** due for promotion (5%)
 - **117 employees** marked for retrenchment (8%)
@@ -100,7 +99,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## 📊 Dashboard Output
+## Dashboard Output
 
 ### 🏠 Home Page
 - Total employees, gender breakdown
@@ -132,7 +131,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## ▶ How to Run This Project?
+## How to Run This Project?
 
 1. Download and open `HR ANALYSIS DASHBOARD With Navigation.pbix` in **Power BI Desktop**.
 2. The dataset is already embedded. No need to import external files.
@@ -145,7 +144,7 @@ Navigation buttons on the left allow seamless transitions between the pages.
 
 ---
 
-## ✅ Results & Conclusion
+## Results & Conclusion
 This HR Dashboard centralizes workforce analytics into a single powerful tool. It:
 - Provides a real-time view of HR KPIs
 - Helps prioritize promotions and retrenchments
