@@ -1,4 +1,3 @@
-
 # 📦 Inventory Management Dashboard | Power BI Project
 
 A responsive Power BI dashboard that visualizes key inventory KPIs—product stock, reorder levels, shelf-wise distribution, availability percentage, and monthly stock availability trends—to help businesses streamline their inventory management process.
@@ -6,17 +5,17 @@ A responsive Power BI dashboard that visualizes key inventory KPIs—product sto
 ---
 
 ## 📚 Table of Contents
-- [Project Title](#project-title)
-- [Brief One-Line Summary](#brief-one-line-summary)
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
-- [Tools and Technologies](#tools-and-technologies)
-- [Methods](#methods)
-- [Key Insights](#key-insights)
-- [Dashboard Output](#dashboard-output)
-- [How to Run This Project](#how-to-run-this-project)
-- [Results & Conclusion](#results--conclusion)
+- [🏷 Project Title](#-project-title)
+- [✍️ Brief One-Line Summary](#-brief-one-line-summary)
+- [📌 Overview](#-overview)
+- [❗ Problem Statement](#-problem-statement)
+- [📂 Dataset](#-dataset)
+- [🛠 Tools and Technologies](#-tools-and-technologies)
+- [📈 Methods](#-methods)
+- [🔍 Key Insights](#-key-insights)
+- [📊 Dashboard Output](#-dashboard-output)
+- [▶ How to Run This Project](#-how-to-run-this-project)
+- [✅ Results & Conclusion](#-results--conclusion)
 
 ---
 
@@ -117,4 +116,3 @@ This dashboard provides a single-pane view of your inventory KPIs in real time. 
 - Supports warehouse logistics with visual clarity
 
 This is ideal for supply chain analysts, retail inventory teams, and warehouse managers seeking a smart, scalable reporting tool.
-
